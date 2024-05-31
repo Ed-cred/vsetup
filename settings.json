@@ -17,6 +17,7 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.env.windows": {},
   "errorLens.fontFamily": "\"JetBrainsMono Nerd Font Mono\"",
+  "errorLens.messageBackgroundMode": "none",
   "zenMode.hideLineNumbers": false,
   "zenMode.hideStatusBar": false,
   "zenMode.centerLayout": false,
